@@ -3,7 +3,7 @@ Disallow: /nogooglebot/
 
 User-agent: *
 Disallow: /tag/
-Disallow: /category/
+Allow: /category/
 Allow: /
 
 Sitemap: https://techanirbankundu.github.io/aniterminal/sitemap.xml
